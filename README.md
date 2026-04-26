@@ -1,22 +1,22 @@
-# Available .STYLE One-Word Domains (8,748)
+# Available .STYLE One-Word Domains (11,225)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C749%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C748%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C225%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .style one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .style one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,225 domains** on the canonical page below.
 
-**Public extract:** 8,749 rows · **Live catalog:** 8,748 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,225 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/style`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .STYLE one-word domain
 
 ### Files
 
-- `style.csv` — public CSV extract (8,749 rows)
-- `style.json` — public JSON extract (8,749 rows)
+- `style.csv` — public CSV extract (1,000 rows)
+- `style.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| genius.style   | available | $12.99    | $50.99        | 98             | 45     | 6      | name.com                   |
-| discover.style | resell    | —         | —             | 66             | 75     | 8      | Squarespace Domains II LLC |
-| live.style     | premium   | $250      | $250          | 108            | 56     | 4      | name.com                   |
-| forge.style    | available | $12.99    | $50.99        | 62             | 44     | 5      | name.com                   |
-| prompt.style   | resell    | —         | —             | 114            | 68     | 6      | Porkbun LLC                |
-| event.style    | premium   | $42.90    | $42.90        | 96             | 44     | 5      | namecheap                  |
-| drop.style     | available | $12.99    | $50.99        | 86             | 39     | 4      | name.com                   |
-| enjoy.style    | resell    | —         | —             | 88             | 66     | 5      | Dynadot Inc                |
-| sales.style    | premium   | $85.80    | $85.80        | 66             | 42     | 5      | namecheap                  |
-| harmony.style  | available | $12.99    | —             | 83             | 39     | 7      | name.com                   |
-| power.style    | resell    | —         | —             | 98             | 62     | 5      | united-domains GmbH        |
-| property.style | premium   | $128.70   | $128.70       | 90             | 39     | 8      | namecheap                  |
-| unify.style    | available | $12.99    | $50.99        | 72             | 38     | 5      | name.com                   |
-| open.style     | resell    | —         | —             | 106            | 60     | 4      | Dynadot Inc                |
-| daily.style    | premium   | $42.90    | $42.90        | 74             | 39     | 5      | namecheap                  |
-| risk.style     | available | $49.98    | —             | 62             | 38     | 4      | namecheap                  |
-| context.style  | resell    | —         | —             | 76             | 59     | 7      | Sav.com, LLC               |
-| total.style    | premium   | $123.75   | $123.75       | 108            | 38     | 5      | name.com                   |
-| pussy.style    | available | $12.99    | —             | 50             | 37     | 5      | name.com                   |
-| cloud.style    | resell    | —         | —             | 70             | 59     | 5      | Dynadot Inc                |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
+| neuroscience.style | available | $12.99    | —             | 80             | 37     | 12     | name.com                  |
+| Stars.style        | resell    | —         | —             | 79             | 31     | 5      | GoDaddy.com, LLC          |
+| jobs.style         | premium   | $123.75   | —             | 79             | 42     | 4      | name.com                  |
+| spectra.style      | available | $12.99    | —             | 62             | 34     | 7      | name.com                  |
+| heaven.style       | resell    | —         | —             | 70             | 30     | 6      | HOSTINGER operations, UAB |
+| homes.style        | premium   | $123.75   | —             | 86             | 34     | 5      | name.com                  |
+| letsgo.style       | available | $12.99    | —             | 57             | 31     | 7      | name.com                  |
+| tickets.style      | premium   | $78.54    | $78.54        | 64             | 34     | 7      | namesilo                  |
+| traders.style      | available | $12.99    | —             | 60             | 26     | 7      | name.com                  |
+| partners.style     | premium   | $82.50    | —             | 61             | 32     | 8      | name.com                  |
+| Keith.style        | available | $49.98    | —             | 66             | 25     | 5      | namecheap                 |
+| photos.style       | premium   | $123.75   | —             | 54             | 28     | 6      | name.com                  |
+| schools.style      | available | $12.99    | —             | 72             | 24     | 7      | name.com                  |
+| pls.style          | premium   | $46.20    | $46.20        | 60             | 23     | 3      | namecheap                 |
+| comics.style       | available | $12.99    | —             | 68             | 24     | 6      | name.com                  |
+| blogs.style        | premium   | $78.54    | $78.54        | 52             | 21     | 5      | namesilo                  |
+| motorsport.style   | available | $12.99    | —             | 74             | 23     | 10     | name.com                  |
+| vacations.style    | premium   | $78.54    | $78.54        | 56             | 19     | 9      | namesilo                  |
+| deeplearning.style | available | $12.99    | —             | 74             | 23     | 13     | name.com                  |
+| pictures.style     | premium   | $46.20    | $46.20        | 82             | 17     | 8      | namecheap                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,749-row public sample | 8,748 live domains                               |
+| 1,000-row public sample | 11,225 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
