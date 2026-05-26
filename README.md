@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .style one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,639 domains · **Median ask:** $17.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/style`  
 **Best for:** founders, investors, studios
 
@@ -69,14 +69,14 @@ print(df.head())
 | jobs.style          | premium   | $123.75   | —             | 79             | 42     | 4      | name.com                  |
 | Keith.style         | available | $49.98    | —             | 66             | 25     | 5      | namecheap                 |
 | heaven.style        | resell    | —         | —             | 70             | 30     | 6      | HOSTINGER operations, UAB |
-| partners.style      | premium   | $82.50    | —             | 61             | 32     | 8      | name.com                  |
+| partners.style      | premium   | $82.50    | —             | 61             | 31     | 8      | name.com                  |
 | schools.style       | available | $12.99    | —             | 72             | 24     | 7      | name.com                  |
 | pls.style           | premium   | $46.20    | $46.20        | 60             | 23     | 3      | namecheap                 |
-| comics.style        | available | $12.99    | —             | 68             | 24     | 6      | name.com                  |
-| blogs.style         | premium   | $78.54    | $78.54        | 52             | 21     | 5      | namesilo                  |
 | motorsport.style    | available | $12.99    | —             | 74             | 23     | 10     | name.com                  |
-| vacations.style     | premium   | $78.54    | $78.54        | 56             | 19     | 9      | namesilo                  |
+| blogs.style         | premium   | $78.54    | $78.54        | 52             | 21     | 5      | namesilo                  |
 | deeplearning.style  | available | $12.99    | —             | 74             | 23     | 13     | name.com                  |
+| vacations.style     | premium   | $78.54    | $78.54        | 56             | 19     | 9      | namesilo                  |
+| comics.style        | available | $12.99    | —             | 68             | 23     | 6      | name.com                  |
 | pictures.style      | premium   | $46.20    | $46.20        | 82             | 17     | 8      | namecheap                 |
 | Places.style        | available | $49.98    | —             | 74             | 22     | 6      | namecheap                 |
 | texts.style         | premium   | $118.80   | $118.80       | 52             | 13     | 5      | namesilo                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
