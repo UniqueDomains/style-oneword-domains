@@ -1,10 +1,10 @@
-# Available .STYLE One-Word Domains (11,639)
+# Available .STYLE One-Word Domains (11,638)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C639%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C638%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .style one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,639 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,638 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,639 domains · **Median ask:** $17.69 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,638 domains · **Median ask:** $18.29 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/style`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/style`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .STYLE one-word domain
 
 ### Files
 
-- `style.csv` — public CSV extract (1,000 rows)
-- `style.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `style.csv`, public CSV extract (1,000 rows)
+- `style.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
-| spectra.style       | available | $12.99    | —             | 62             | 34     | 7      | name.com                  |
-| Stars.style         | resell    | —         | —             | 79             | 32     | 5      | GoDaddy.com, LLC          |
-| jobs.style          | premium   | $123.75   | —             | 79             | 42     | 4      | name.com                  |
-| Keith.style         | available | $49.98    | —             | 66             | 25     | 5      | namecheap                 |
-| heaven.style        | resell    | —         | —             | 70             | 30     | 6      | HOSTINGER operations, UAB |
-| partners.style      | premium   | $82.50    | —             | 61             | 31     | 8      | name.com                  |
-| schools.style       | available | $12.99    | —             | 72             | 24     | 7      | name.com                  |
-| pls.style           | premium   | $46.20    | $46.20        | 60             | 23     | 3      | namecheap                 |
-| motorsport.style    | available | $12.99    | —             | 74             | 23     | 10     | name.com                  |
-| blogs.style         | premium   | $78.54    | $78.54        | 52             | 21     | 5      | namesilo                  |
-| deeplearning.style  | available | $12.99    | —             | 74             | 23     | 13     | name.com                  |
-| vacations.style     | premium   | $78.54    | $78.54        | 56             | 19     | 9      | namesilo                  |
-| comics.style        | available | $12.99    | —             | 68             | 23     | 6      | name.com                  |
-| pictures.style      | premium   | $46.20    | $46.20        | 82             | 17     | 8      | namecheap                 |
-| Places.style        | available | $49.98    | —             | 74             | 22     | 6      | namecheap                 |
-| texts.style         | premium   | $118.80   | $118.80       | 52             | 13     | 5      | namesilo                  |
-| teachers.style      | available | $12.99    | —             | 56             | 22     | 8      | name.com                  |
-| newest.style        | premium   | $82.50    | —             | 64             | 12     | 6      | name.com                  |
-| distributed.style   | available | $12.99    | —             | 64             | 21     | 11     | name.com                  |
-| relationships.style | premium   | $82.50    | —             | 48             | 12     | 13     | name.com                  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| brow.style  | available | $12.99    | —             | medium         | low    | 4      | name.com            |
+| fine.style  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC        |
+| dip.style   | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap           |
+| chop.style  | available | $12.99    | —             | medium         | low    | 4      | name.com            |
+| food.style  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC    |
+| due.style   | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
+| come.style  | available | $12.99    | —             | high           | low    | 4      | name.com            |
+| hotel.style | resell    | —         | —             | high           | medium | 5      | Dynadot Inc         |
+| Eid.style   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
+| cook.style  | available | $12.99    | —             | high           | low    | 4      | name.com            |
+| phone.style | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.     |
+| fat.style   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo            |
+| cord.style  | available | $12.99    | —             | high           | low    | 4      | name.com            |
+| power.style | resell    | —         | —             | high           | medium | 5      | united-domains GmbH |
+| fix.style   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo            |
+| curl.style  | available | $12.99    | —             | medium         | low    | 4      | name.com            |
+| snake.style | resell    | —         | —             | medium         | low    | 5      | INWX GmbH           |
+| ill.style   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo            |
+| door.style  | available | $12.99    | —             | high           | low    | 4      | name.com            |
+| words.style | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,639 live domains                        |
+| 1,000-row public sample | 11,638 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on one-word .style domains. The set ranges from dictionary words and descriptive terms to punchier, more unusual options such as bucolic.style, outdoors.style, diving.style, verify.style, and whizz.style. For founders, the main question is whether the word is memorable, easy to say, and broad enough to grow with a brand. For investors, the key test is whether the word has clear commercial meaning and a low enough ask to justify holding risk in a niche extension. When comparing these domains, weigh word quality first, then ask price, then any possible trademark sensitivity tied to exact-match commercial terms.
+This selection covers 11,638 one-word domain names on the .style extension, from simple nouns like jewels.style and Apples.style to compact phrases such as gowiththeflow.style, cuddleup.style, and mealsonwheels.style. The median ask across this list sits around $18, making .style one of the more affordable extensions for testing a brandable name or building a themed portfolio. When comparing these domains, weigh word length, spelling simplicity, and category relevance against asking price and renewal cost before committing.
 
-- Prioritize clear, memorable words over obscure terms
-- Check if the ask fits the strength of the exact word
-- Generic words can brand well but may vary in demand
-- Review trademark risk on commercial or loaded terms
+- 11,638 .style domains tracked in this set
+- Median ask ~$18 — low entry cost across .style
+- Brandable single-word and compound options
+- Check renewal cost before buying to avoid surprises
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
