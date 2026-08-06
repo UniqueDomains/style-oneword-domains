@@ -1,10 +1,10 @@
-# Available .STYLE One-Word Domains (11,638)
+# Available .STYLE One-Word Domains (11,643)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C638%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C643%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .style one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,638 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,643 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,638 domains · **Median ask:** $18.29 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,643 domains · **Median ask:** $17.20 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/style`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| brow.style  | available | $12.99    | —             | medium         | low    | 4      | name.com            |
+| achy.style  | available | $7.98     | $49.98        | low            | low    | 4      | namecheap           |
 | fine.style  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC        |
-| dip.style   | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap           |
-| chop.style  | available | $12.99    | —             | medium         | low    | 4      | name.com            |
+| clx.style   | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo            |
+| ague.style  | available | $7.98     | $49.98        | low            | low    | 4      | namecheap           |
 | food.style  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC    |
-| due.style   | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
-| come.style  | available | $12.99    | —             | high           | low    | 4      | name.com            |
+| dip.style   | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap           |
+| awry.style  | available | $7.98     | $49.98        | low            | low    | 4      | namecheap           |
 | hotel.style | resell    | —         | —             | high           | medium | 5      | Dynadot Inc         |
-| Eid.style   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
-| cook.style  | available | $12.99    | —             | high           | low    | 4      | name.com            |
+| due.style   | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
+| brow.style  | available | $12.99    | —             | medium         | low    | 4      | name.com            |
 | phone.style | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.     |
-| fat.style   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo            |
-| cord.style  | available | $12.99    | —             | high           | low    | 4      | name.com            |
+| Eid.style   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
+| chop.style  | available | $12.99    | —             | medium         | low    | 4      | name.com            |
 | power.style | resell    | —         | —             | high           | medium | 5      | united-domains GmbH |
-| fix.style   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo            |
-| curl.style  | available | $12.99    | —             | medium         | low    | 4      | name.com            |
+| fat.style   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo            |
+| clxx.style  | available | $7.98     | $49.98        | low            | low    | 4      | namecheap           |
 | snake.style | resell    | —         | —             | medium         | low    | 5      | INWX GmbH           |
-| ill.style   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo            |
-| door.style  | available | $12.99    | —             | high           | low    | 4      | name.com            |
+| fin.style   | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo            |
+| come.style  | available | $12.99    | —             | high           | low    | 4      | name.com            |
 | words.style | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,638 live domains                        |
+| 1,000-row public sample | 11,643 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
