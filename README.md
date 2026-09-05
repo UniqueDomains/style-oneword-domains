@@ -1,10 +1,10 @@
-# Available .STYLE One-Word Domains (19,192)
+# Available .STYLE One-Word Domains (19,470)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C192%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C470%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .style one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,192 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,470 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,192 domains · **Median ask:** $13.57 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 19,470 domains · **Median ask:** $13.48 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-04
+**Last updated:** 2026-09-05
 **Canonical page:** `https://unique.domains/domains/tld/style`
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | phone.style | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.     |
 | Eid.style   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
 | chop.style  | available | $12.99    | —             | medium         | low    | 4      | name.com            |
-| power.style | resell    | —         | —             | high           | medium | 5      | united-domains GmbH |
+| power.style | resell    | —         | —             | medium         | medium | 5      | united-domains GmbH |
 | fat.style   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo            |
 | clxx.style  | available | $7.98     | $49.98        | low            | low    | 4      | namecheap           |
 | snake.style | resell    | —         | —             | medium         | low    | 5      | INWX GmbH           |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,192 live domains                        |
+| 1,000-row public sample | 19,470 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-09-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
