@@ -1,10 +1,10 @@
-# Available .STYLE One-Word Domains (24,855)
+# Available .STYLE One-Word Domains (27,032)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C855%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C032%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .style one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,855 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,032 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,855 domains · **Median ask:** $15.47 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 27,032 domains · **Median ask:** $15.59 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/style`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| alan.style  | available | $16.99    | $38.99        | high           | low    | 4      | namesilo          |
-| her.style   | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.   |
-| aaa.style   | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo          |
-| amyl.style  | available | $16.99    | $38.99        | medium         | low    | 4      | namesilo          |
-| win.style   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC      |
-| ata.style   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
-| apse.style  | available | $16.99    | $38.99        | high           | low    | 4      | namesilo          |
-| auto.style  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
-| bap.style   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
-| aves.style  | available | $16.99    | $38.99        | high           | low    | 4      | namesilo          |
-| safe.style  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
-| bar.style   | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap         |
-| babu.style  | available | $7.98     | $49.98        | medium         | low    | 4      | namecheap         |
-| media.style | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 39 |
-| bug.style   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| byrd.style  | available | $7.98     | $49.98        | high           | low    | 4      | namecheap         |
-| print.style | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC      |
-| cod.style   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| clap.style  | available | $12.99    | —             | high           | low    | 4      | name.com          |
-| words.style | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| alan.style     | available | $16.99    | $38.99        | high           | low    | 4      | namesilo                   |
+| her.style      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.            |
+| aaa.style      | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo                   |
+| amyl.style     | available | $16.99    | $38.99        | medium         | low    | 4      | namesilo                   |
+| auto.style     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                |
+| bap.style      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                   |
+| apse.style     | available | $16.99    | $38.99        | high           | low    | 4      | namesilo                   |
+| safe.style     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC           |
+| bar.style      | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap                  |
+| aves.style     | available | $16.99    | $38.99        | high           | low    | 4      | namesilo                   |
+| media.style    | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 39          |
+| bug.style      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| babu.style     | available | $7.98     | $49.98        | high           | low    | 4      | namecheap                  |
+| print.style    | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC               |
+| cod.style      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| byrd.style     | available | $7.98     | $49.98        | high           | low    | 4      | namecheap                  |
+| words.style    | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC           |
+| crt.style      | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot                    |
+| clap.style     | available | $16.99    | $38.99        | high           | low    | 4      | namesilo                   |
+| discover.style | resell    | —         | —             | high           | high   | 8      | Squarespace Domains II LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,855 live domains                        |
+| 1,000-row public sample | 27,032 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STYLE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
